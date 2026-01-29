@@ -1,2 +1,2 @@
-HST-FOS-Fe-III-emission
-Line measurements presented in Martínez Collipal et al. 2026.
+Supplementary material of the paper "Mapping the Quasar Main Sequence in the UV range: A Connection with the UV Fe III Emission" (D. Martinez Collipal et al. 2026)
+
