@@ -1,5 +1,5 @@
 # ================================================================================
-# Title: Exploring the UV FeIII Emission along the Quasar Main Sequence
+# Title: Mapping the Quasar Main Sequence in the UV range: A Connection with the UV Fe III Emission
 # Authors: Martínez Colliapl D., Martínez-Aldama M.L., Pandey A., 
 #          Cardenas M., Marziani P. and Panda S.
 # Table: Object Identification and Main sequence parameters
